@@ -1,0 +1,30 @@
+:root{
+    --primary-color:whitesmoke;
+    --font-family:'Cormorant Garamond', serif;
+    --branding-color:radial-gradient(circle at 10% 20%, rgba(216, 241, 230, 0.46) 0.1%, rgba(233, 226, 226, 0.28) 90.1%);
+}
+body h1 {
+    font-family: var(--font-family);
+}
+h1{
+    font-size: 48px;
+    font-weight: bold;
+}
+.hero{
+    background: var(--branding-color);
+text-align: center;
+padding: 160px;
+}
+.hero h2{
+    font-family: var(--font-family);
+    font-size: 28px;
+    font-weight: normal;
+    margin: 0;
+}
+.btn-dark{
+    border-radius: 4px;
+    color: var(--primary-color);
+    font-size: 18px;
+    line-height: 28px;
+    padding: 12px 20px;
+}
