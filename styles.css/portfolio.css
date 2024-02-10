@@ -36,3 +36,16 @@ padding: 160px;
     text-decoration: none;
     border-radius: 5px;
 }
+.bitmoji{
+    width: 230px;
+    height: auto;
+}
+.about-page h2{
+    font-size: 26px;
+
+}
+.about-page h1{
+    font-size: 48px;
+    font-family: var(--font-family);
+}
+
