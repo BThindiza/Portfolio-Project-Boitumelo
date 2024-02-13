@@ -48,7 +48,3 @@ padding: 160px;
     font-size: 48px;
     font-family: var(--font-family);
 }
-.btn{
-    position:absolute;
-    bottom: 0;
-}
