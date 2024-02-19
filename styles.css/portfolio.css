@@ -51,3 +51,9 @@ padding: 160px;
 .content-container{
     padding: 160px 20px ;
 }
+.img-fluid{
+    height: 55px;
+    width:auto;
+    display: inline-block;
+    margin-right: 10px;
+}
