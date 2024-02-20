@@ -57,3 +57,17 @@ padding: 160px;
     display: inline-block;
     margin-right: 10px;
 }
+footer{
+    margin: 80px 0;
+}
+footer .links{
+    margin: 0 20px;
+    padding: 10px 14px;
+    border-radius: 50%;
+    font-size: 28px;
+    color: var(--branding-color);
+    background-color: var(--branding-color);
+}
+.links a{
+    margin-right: 30px;
+}
