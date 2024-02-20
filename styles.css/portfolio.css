@@ -7,7 +7,7 @@ body h1 {
     font-family: var(--font-family);
 }
 h1{
-    font-size: 48px;
+    font-size: 40px;
     font-weight: bold;
 }
 .hero{
@@ -70,4 +70,8 @@ footer .links{
 }
 .links a{
     margin-right: 30px;
+}
+.image{
+    width: 400px;
+    height: auto;
 }
